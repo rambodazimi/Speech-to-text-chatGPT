@@ -1,7 +1,7 @@
 import openai
 import gradio as gr
 
-openai.api_key = "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"
+openai.api_key = "Meti ino bayad beri chatGPT besazi API key begiri inja type koni. too google bezan yad migiri"
 
 messages = [
     {"role": "system", "content": "Answer questions which are only in persian language" + " Don't answer in english" +
